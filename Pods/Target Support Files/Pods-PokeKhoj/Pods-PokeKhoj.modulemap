@@ -1,0 +1,6 @@
+framework module Pods_PokeKhoj {
+  umbrella header "Pods-PokeKhoj-umbrella.h"
+
+  export *
+  module * { export * }
+}
